@@ -1,0 +1,2 @@
+Texto de archivo2.txt
+Texto añadido.
