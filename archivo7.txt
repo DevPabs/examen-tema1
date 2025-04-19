@@ -1,1 +1,2 @@
 Texto de prueba B para merge con conficto
+Texto de prueba A para merge con conflicto
