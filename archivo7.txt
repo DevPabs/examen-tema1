@@ -1,0 +1,1 @@
+Texto de prueba B para merge con conficto
